@@ -62,7 +62,7 @@ Commercial cloud platforms powering Reverse ETL, multi-directional field synchro
 
 ## 💻 Open-Source Projects
 
-Self-hosted Reverse ETL platforms, bidirectional data pipelines, data ingestion frameworks, and RevOps intelligence architectures. Sorted by GitHub Stars_Count descending.
+Self-hosted Reverse ETL platforms, bidirectional data pipelines, data ingestion frameworks, and RevOps intelligence architectures. Sorted by GitHub_Stars_Count descending.
 
 | Project | GitHub_Stars | Language / Stack | Primary Focus & Capabilities |
 | :--- | :--- | :--- | :--- |
